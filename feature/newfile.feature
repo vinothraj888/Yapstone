@@ -3,3 +3,5 @@ Feature:
 
   Scenario:
     <Some interesting scenario steps here>
+    Given I login to system
+    
