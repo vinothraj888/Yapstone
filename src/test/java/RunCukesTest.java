@@ -10,7 +10,7 @@ import cucumber.api.junit.Cucumber;
 
 @RunWith(Cucumber.class)
 @CucumberOptions(
-        features = "src/test/java/feature",
+        features = "feature",
         glue={"src/test/StepDefinitions"},plugin = { "pretty",
        		 "junit:target/cucumber-reports/Cucumber.xml","json:target/cucumber-reports/Cucumber.json"},
 		monochrome=true)
