@@ -1,6 +1,6 @@
-Feature:
+Feature:logic
   <Some interesting description here>
 
-  Scenario:
+  Scenario:logic
     <Some interesting scenario steps here>
 Given I see a screen

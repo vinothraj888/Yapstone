@@ -1,5 +1,5 @@
-Feature:
+Feature:failed
   <Some interesting description here>
 
-  Scenario:
+  Scenario:faied 
     <Some interesting scenario steps here>
